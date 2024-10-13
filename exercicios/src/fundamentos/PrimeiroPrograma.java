@@ -1,9 +1,7 @@
 package fundamentos;
 
 public class PrimeiroPrograma {
-	
 	public static void main(String[] args) {
-		System.out.println("maicão");
-		System.out.println("maicon!");
+		System.out.println("Hello world!");
 	}
 }
